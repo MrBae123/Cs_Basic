@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\bin\Debug\net6.0-windows\2-HelloCsWin.exe
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\bin\Debug\net6.0-windows\2-HelloCsWin.deps.json
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\bin\Debug\net6.0-windows\2-HelloCsWin.runtimeconfig.json
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\bin\Debug\net6.0-windows\2-HelloCsWin.dll
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\bin\Debug\net6.0-windows\2-HelloCsWin.pdb
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\_2_HelloCsWin.Calculator.resources
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.csproj.GenerateResource.cache
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.AssemblyInfo.cs
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.dll
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\refint\2-HelloCsWin.dll
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.pdb
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\2-HelloCsWin.genruntimeconfig.cache
+C:\Users\user\Desktop\과제\깃허브용\C#\2-HelloCsWin\2-HelloCsWin\obj\Debug\net6.0-windows\ref\2-HelloCsWin.dll
