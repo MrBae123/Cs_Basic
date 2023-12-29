@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\bin\Debug\net6.0\1-HelloCSarp.exe
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\bin\Debug\net6.0\1-HelloCSarp.deps.json
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\bin\Debug\net6.0\1-HelloCSarp.runtimeconfig.json
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\bin\Debug\net6.0\1-HelloCSarp.dll
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\bin\Debug\net6.0\1-HelloCSarp.pdb
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\1-HelloCSarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\1-HelloCSarp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\1-HelloCSarp.AssemblyInfo.cs
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\1-HelloCSarp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\1-HelloCSarp.dll
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\refint\1-HelloCSarp.dll
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\1-HelloCSarp.pdb
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\1-HelloCSarp.genruntimeconfig.cache
+C:\Users\user\Desktop\과제\깃허브용\C#\1-HelloCSarp\1-HelloCSarp\obj\Debug\net6.0\ref\1-HelloCSarp.dll
